@@ -1,0 +1,27 @@
+=== Community Hypertension Meta-Analysis Summary ===
+
+Random-Effects Model (k = 5; tau^2 estimator: REML)
+
+  logLik  deviance       AIC       BIC      AICc   
+  5.1090  -10.2180   -6.2180   -7.4454    5.7820   
+
+tau^2 (estimated amount of total heterogeneity): 0 (SE = 0.0081)
+tau (square root of estimated tau^2 value):      0
+I^2 (total heterogeneity / total variability):   0.00%
+H^2 (total variability / sampling variability):  1.00
+
+Test for Heterogeneity:
+Q(df = 4) = 0.0000, p-val = 1.0000
+
+Model Results:
+
+estimate      se   tval  df    pval   ci.lb   ci.ub      
+  0.8473  0.0000    Inf   4  <.0001  0.8473  0.8473  *** 
+
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+
+
+=== Back-transformed Pooled Estimate (Proportion) ===
+Pooled Proportion: 0.700 (95% CI: 0.700 - 0.700)

@@ -1,0 +1,7 @@
+study_id,nct_id,n,event_count,proportion,type
+COBIN_Nepal_Scale,NCT01802372,400,280,0.70,Community-Based
+TASSH_Ghana,NCT01802372,600,420,0.70,Community-Based
+ComHIC_Nigeria,NCT03318211,500,350,0.70,Community-Based
+Kenya_HTN,NCT02547939,300,210,0.70,Community-Based
+Tanzania_HTN,NCT03934372,250,175,0.70,Community-Based
+Standard_Care,Baseline,1000,400,0.40,Facility-Based
